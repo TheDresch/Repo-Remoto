@@ -1,3 +1,3 @@
-# Repositório depois do clone Remoto
+# Repositório depois do clone Remoto.
 
-Depois do clone
+Depois do clone.
