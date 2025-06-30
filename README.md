@@ -1,3 +1,3 @@
 # Repositório Remoto
 
-Teste
+Antes do clone
